@@ -1,2 +1,2 @@
-# Finance-And-Business-Projects
-Valuation and Portfolio Optimization With Excel Workbooks
+Finance and Business Projects
+Company Valuation and Portfolio Optimization with Accompanying Excel Workbooks
